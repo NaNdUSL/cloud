@@ -1,0 +1,5 @@
+{
+    "cameratype":"environment",
+    "outputname":"Images/imagem.ppm",
+    "outputtype":"PPM"
+}
