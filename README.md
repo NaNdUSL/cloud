@@ -18,6 +18,6 @@ Este ficheiro contém em formato json as definições a serem usadas nomeadament
 
 ## Autores:
 
-[Pierini10](https://github.com/Pierini10)
-[joanaaVO](https://github.com/joanaaVO)
-[NaNdUSL](https://github.com/NaNdUSL)
+- [Pierini10](https://github.com/Pierini10)
+- [joanaaVO](https://github.com/joanaaVO)
+- [NaNdUSL](https://github.com/NaNdUSL)
